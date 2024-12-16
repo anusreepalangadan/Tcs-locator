@@ -9,7 +9,7 @@ A new Flutter project.
 <img src="https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734069420.png" width="200" />
 <img src="https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734074415.png" width="200" />
 <img src="https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734074490.png" width="200" />
-  <video src='https://github.com/anusreepalangadan/Tcs-locator/blob/main/screenrecording.mp4' width=180/>
+
   
 </p>
 This project is a starting point for a Flutter application.
