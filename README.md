@@ -3,12 +3,12 @@
 A new Flutter project.
 
 ## Getting Started
-![image alt](https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734069358.png)
-![image alt](https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734069377.png)
-![image alt](https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734069420.png)
-![image alt](https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734074415.png)
-![image alt](https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734074490.png)
 <img src="https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734069358.png" width="300" />
+<img src="https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734069377.png" width="300" />
+<img src="https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734069420.png" width="300" />
+<img src="https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734074415.png" width="300" />
+<img src="https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734074490.png" width="300" />
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
