@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![image alt](https://github.com/anusreepalangadan/Tcs-locator/blob/03d89ddefb8bd644a92ceb6646ce95e84833bc12/Screenshot_1734069358.png)
 
 This project is a starting point for a Flutter application.
 
